@@ -1,0 +1,17 @@
+.secsec{
+     height: 200vh;
+     color: white;
+     background: rgb(236, 219, 219);
+     z-index: 1000;
+     position: relative;
+}
+
+.story {
+     
+     width: 10vw;
+     img {
+          width: 10%;
+          position: absolute;
+          left: 45%;
+     }
+}
